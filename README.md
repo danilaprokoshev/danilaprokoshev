@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a Frontend Developer
 - 📚 My education: St Petersburg University, `02.04.03` _Software Engineering and Information Systems Management_ (2017 - 2019)
-- ⚡ I implemented an automated testing at one of working project
 - 👨🏼‍💻 I've finished [Frontend Developer](https://drive.google.com/file/d/12sScuqUq0gmO7oanQ5HyMyYS0ha0P3k5/view) course at [Hexlet](https://ru.hexlet.io/programs/frontend)
+- ⚡ I implemented an automated testing at one of working project
 - 🌱 I'm on way of learning backend, functional programming, Racket as second language and [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
+- I try to study for such fundamental things as [operation systems](https://www.litres.ru/olga-stesik/operacionnaya-sistema-unix-7068476/) and [computer networks](https://www.asozykin.ru/courses/networks_online)
 - 👨🏼‍💼 I had a bit participation at open-source projects: [Codebattle](https://codebattle.hexlet.io), [Hexlet Comparator](https://schools.hexlet.io)
 - 📫 How to reach me: just send me an email to danilaprokoshev@gmail.com
 
